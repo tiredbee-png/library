@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>...</title>
+<base href="kuku emae">
+</head>
+<body>
+<p font color = "pink"; align = "center">the hotel is alive</p>
+<br>
+</body>
+</html>
